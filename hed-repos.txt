@@ -1,0 +1,3 @@
+git@github.com:TugboatHoldings/hm-radio-ux-engine-node-api.git
+git@github.com:TugboatHoldings/hm-user-profiles-api-service.git
+git@github.com:TugboatHoldings/hm-coordinator2-api.git
